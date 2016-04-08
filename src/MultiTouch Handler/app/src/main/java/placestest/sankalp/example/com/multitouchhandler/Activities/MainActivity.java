@@ -66,7 +66,7 @@ public class MainActivity extends Activity {
         int action = event.getActionMasked();
         //Detect touch events of fingers touching the screen.
         if (action == MotionEvent.ACTION_DOWN || action == MotionEvent.ACTION_POINTER_DOWN){
-            //Make the phone vibrate for 250 ms.
+            //Make the phone vibrate for 200 ms.
             phoneVibrate.vibrate(200);
             if (action == MotionEvent.ACTION_DOWN){
                 int[] curLoc = {0, 0};
