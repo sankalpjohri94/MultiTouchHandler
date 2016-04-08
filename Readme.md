@@ -3,5 +3,4 @@ This app uses the 'onTouchEvent()' method to detect touch events. The app can de
 
 Instructions to run:- 
 
-1) Install MultiTouchHandler.apk provided in the Build folder.
-2) Place fingers on the screen and move them around.
+1) Install MultiTouchHandler.apk provided in the Build folder.                                                                          2) Place fingers on the screen and move them around.
